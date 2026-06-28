@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bmiw</string>
+    <string name="hint_wt">Enter your Weight (in kg)</string>
+    <string name="hint_htF">Enter your Height (in ft)</string>
+    <string name="hint_htI">Enter your Height (in in)</string>
+    <string name="btn_calculate">Calculate BMI</string>
+    <string name="result_placeholder">Result will appear here</string>
+    <string name="res_overweight">You are Overweight (BMI: %s)</string>
+    <string name="res_underweight">You are Underweight (BMI: %s)</string>
+    <string name="res_healthy">You are Healthy (BMI: %s)</string>
+    <string name="err_height">Height must be greater than 0</string>
+    <string name="err_invalid">Invalid input</string>
+    <string name="err_missing">Please enter all details</string>
+
+
+</resources>
